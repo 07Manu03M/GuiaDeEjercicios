@@ -14,3 +14,9 @@ El ciclismo es una actividad aeróbica que combina ejercicio físico y desplazam
    - Entrenamiento por intervalos: Alterna entre 1-2 minutos de alta intensidad y 2-3 minutos de recuperación durante 20-30 minutos.
    - Subidas: Practica pedaleando en pendientes para fortalecer los músculos y mejorar la resistencia.
 3. Finaliza con un enfriamiento pedaleando lentamente durante 5-10 minutos y estira los principales músculos trabajados.
+
+## Consejos
+- Asegúrate de tener una bicicleta ajustada a tu tamaño y necesidades.
+- Usa equipo de seguridad como casco y guantes.
+- Lleva agua o bebidas isotónicas para mantenerte hidratado.
+- Mantén una postura adecuada para evitar dolores en la espalda o cuello.
