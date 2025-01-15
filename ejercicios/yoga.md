@@ -6,3 +6,8 @@ El yoga es una práctica que combina posturas físicas, técnicas de respiració
 - Aumenta la flexibilidad y el equilibrio.
 - Reduce el estrés y promueve la relajación.
 - Mejora la fuerza muscular y la postura.
+
+## Instrucciones
+1. Comienza con una breve meditación o respiración consciente de 5 minutos para centrarte.
+2. Realiza una secuencia de posturas básicas como el saludo al sol, perro hacia abajo y guerrero, manteniendo cada postura entre 15-30 segundos.
+3. Termina con una postura de relajación, como savasana, durante 5-10 minutos para cerrar la práctica.
