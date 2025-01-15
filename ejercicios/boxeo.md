@@ -14,3 +14,9 @@ El boxeo es un deporte de alta intensidad que combina fuerza, resistencia y coor
    - Defensa: Entrena esquivas y bloqueos para mejorar tu técnica defensiva.
    - Rondas: Realiza 3-5 rondas de 3 minutos, alternando entre golpeo y descanso de 1 minuto.
 3. Finaliza con un enfriamiento, haciendo estiramientos estáticos y ejercicios de respiración.
+
+## Consejos
+- Usa equipo adecuado como vendas y guantes para proteger tus manos.
+- Aprende la técnica correcta para evitar lesiones.
+- Mantén una postura equilibrada y los pies en movimiento.
+- Hidratación y descanso son clave para una buena recuperación.
