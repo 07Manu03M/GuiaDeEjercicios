@@ -17,4 +17,4 @@ El ciclismo es un ejercicio aeróbico de bajo impacto que fortalece el sistema c
 ## Consejos
 - Ajusta correctamente la altura del asiento y el manillar para evitar lesiones.
 - Usa equipo de seguridad, como casco y luces si pedaleas en exteriores.
-- Mantén una buena hidratación durante la actividad.
+- Mantén una buena hidratación durante la actividad..
