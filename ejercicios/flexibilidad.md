@@ -11,3 +11,8 @@ Los ejercicios de flexibilidad son actividades diseñadas para mejorar el rango 
 1. Comienza con un calentamiento suave de 5-10 minutos para preparar los músculos.
 2. Realiza estiramientos estáticos o dinámicos, manteniendo cada posición de 15 a 30 segundos.
 3. Repite cada estiramiento 2-3 veces, enfocándote en los grupos musculares principales.
+
+# Consejos
+- Evita movimientos bruscos o rebotar mientras te estiras.
+- Respira profundamente para facilitar la relajación muscular.
+- Practica la flexibilidad de manera regular para obtener mejores resultados.
