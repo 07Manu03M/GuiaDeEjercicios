@@ -15,3 +15,9 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina ejerc
   - Movimientos de alta intensidad (sprints, kettlebell swings).
   - Realiza los ejercicios en circuitos o repeticiones por tiempo.
 3. Enfriamiento: Termina con estiramientos estáticos y ejercicios de respiración para relajar los músculos.
+
+## Consejos
+- Prioriza la técnica sobre la velocidad para evitar lesiones.
+- Escucha a tu cuerpo y ajusta la intensidad según tu nivel.
+- Trabaja en comunidad para mantener la motivación.
+- Mantén una buena hidratación antes, durante y después de la sesión.
