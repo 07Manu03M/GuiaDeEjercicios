@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Ejercicios Crossfit
+=======
+# Ejercicios Crossfit
+>>>>>>> Crossfit
 ## Descripción
 El CrossFit es un programa de entrenamiento de alta intensidad que combina ejercicios funcionales de fuerza, resistencia y cardio, diseñado para mejorar la condición física en su totalidad.
 
@@ -10,10 +14,17 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina ejerc
 ## Instrucciones
 1. Calentamiento: Comienza con 5-10 minutos de ejercicios dinámicos como saltos, estiramientos activos y movilidad articular.
 2. WOD (Workout of the Day): Sigue una rutina específica que puede incluir:
+<<<<<<< HEAD
   - Levantamiento de pesas (deadlifts, snatches).
   - Ejercicios de peso corporal (flexiones, sentadillas, burpees).
   - Movimientos de alta intensidad (sprints, kettlebell swings).
   - Realiza los ejercicios en circuitos o repeticiones por tiempo.
+=======
+   - Levantamiento de pesas (deadlifts, snatches).
+   - Ejercicios de peso corporal (flexiones, sentadillas, burpees).
+   - Movimientos de alta intensidad (sprints, kettlebell swings).
+   - Realiza los ejercicios en circuitos o repeticiones por tiempo.
+>>>>>>> Crossfit
 3. Enfriamiento: Termina con estiramientos estáticos y ejercicios de respiración para relajar los músculos.
 
 ## Consejos
